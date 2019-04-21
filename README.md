@@ -1,4 +1,9 @@
-# Magisk Installer
+[Magisk] Module Mod Camera Redmi S2
+
+-Enable WaterMark Feature on setting
+-Enable 4K Resolution on Setting
+
+
 
 **Update `README.md` if you want to submit your module to the online repo!**
 
