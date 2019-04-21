@@ -1,6 +1,13 @@
-id=template
-name=Template Module
+id=ModCam
+name=Mod Camera Redmi S2 
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=oxygentech
+description=Enable Dual WaterMark & 4K Resolution for Redmi S2/Y2
+minMagisk=17000
+
+
+
+
+
+
