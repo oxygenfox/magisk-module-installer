@@ -1,7 +1,7 @@
 id=ModCam
-name=Mod Camera Redmi S2 
+name=Mod Camera Redmi Note 7/Pro
 version=v1
 versionCode=1
 author=oxygentech
-description=Enable Dual WaterMark & 4K Resolution for Redmi S2/Y2
+description=Enable Feature for Redmi Note 7/Pro
 minMagisk=17000
