@@ -1,4 +1,4 @@
-[Magisk] Module Mod Camera Redmi S2
+[Magisk] Module Mod Camera Redmi Note 7 Pro
 
 -Enable WaterMark Feature on setting
 -Enable 4K Resolution on Setting
