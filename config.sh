@@ -42,9 +42,9 @@ LATESTARTSERVICE=false
 print_modname() {
   ui_print "***********************************"
   ui_print "*          Magisk Module          *"
-  ui_print "*     Dual WaterMark & 4K Reso    *"
-  ui_print "*         For Redmi S2/Y2         *"
-  ui_print "*            oxygentexh           *"
+  ui_print "*                                 *"
+  ui_print "*         For Redmi Note 7/pro    *"
+  ui_print "*            oxygentech           *"
   ui_print "***********************************"
 }
 
